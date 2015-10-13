@@ -1,0 +1,182 @@
+[
+  {
+    "id": "aeromexico",
+    "name": "Aeromexico",
+    "code": {
+      "iata": "AM",
+      "icao": "AMX"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/b/bc/AeroM%C3%A9xico_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico"
+    }
+  },
+  {
+    "id": "air-france",
+    "name": "Air France",
+    "code": {
+      "iata": "AF",
+      "icao": "AFR"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/4/44/Air_France_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Air_France"
+    }
+  },
+  {
+    "id": "alitalia",
+    "name": "Alitalia",
+    "code": {
+      "iata": "AZ",
+      "icao": "AZA"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/f/f1/Alitalia_logo_2015.svg",
+      "source": "https://en.wikipedia.org/wiki/Alitalia"
+    }
+  },
+  {
+    "id": "american-airlines",
+    "name": "American Airlines",
+    "code": {
+      "iata": "AA",
+      "icao": "AAL"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/2/23/American_Airlines_logo_2013.svg",
+      "source": "https://en.wikipedia.org/wiki/American_Airlines"
+    }
+  },
+  {
+    "id": "aviacsa",
+    "name": "Aviacsa",
+    "code": {
+      "iata": "6A",
+      "icao": "CHP"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/5/55/Aviacsa_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Aviacsa"
+    }
+  },
+  {
+    "id": "british-airways",
+    "name": "British Airways",
+    "code": {
+      "iata": "BA",
+      "icao": "BAW"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/4/42/British_Airways_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/British_Airways"
+    }
+  },
+  {
+    "id": "delta-air-lines",
+    "name": "Delta Air Lines",
+    "code": {
+      "iata": "DL",
+      "icao": "DAL"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/d/d1/Delta_logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Delta_Air_Lines"
+    }
+  },
+  {
+    "id": "emirates",
+    "name": "Emirates",
+    "code": {
+      "iata": "EK",
+      "icao": "UAE"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/d/d0/Emirates_logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Emirates_%28airline%29"
+    }
+  },
+  {
+    "id": "iberia",
+    "name": "Iberia",
+    "code": {
+      "iata": "IB",
+      "icao": "IBE"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/e/e6/Iberia_%282013%29.svg",
+      "source": "https://en.wikipedia.org/wiki/Iberia_%28airline%29"
+    }
+  },
+  {
+    "id": "klm",
+    "name": "KLM",
+    "code": {
+      "iata": "KL",
+      "icao": "KLM"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/commons/c/c7/KLM_logo.svg",
+      "source": "https://en.wikipedia.org/wiki/KLM"
+    }
+  },
+  {
+    "id": "lufthansa",
+    "name": "Lufthansa",
+    "code": {
+      "iata": "LH",
+      "icao": "DHL"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/5/54/Lufthansa_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Lufthansa"
+    }
+  },
+  {
+    "id": "oceanic-airlines",
+    "name": "Oceanic Airlines",
+    "code": {
+      "iata": "-",
+      "icao": "-"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/5/51/Oceanic.svg",
+      "source": "https://en.wikipedia.org/wiki/Oceanic_Airlines"
+    }
+  },
+  {
+    "id": "united-airlines",
+    "name": "United Airlines",
+    "code": {
+      "iata": "UA",
+      "icao": "UAL"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/e/e0/United_Airlines_Logo.svg",
+      "source": "https://en.wikipedia.org/wiki/United_Airlines"
+    }
+  },
+  {
+    "id": "virgin-america",
+    "name": "Virgin America",
+    "code": {
+      "iata": "VX",
+      "icao": "VRD"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/7/78/Vx-logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Virgin_America"
+    }
+  },
+  {
+    "id": "volaris",
+    "name": "Volaris",
+    "code": {
+      "iata": "Y4",
+      "icao": "VOI"
+    },
+    "logotype": {
+      "url": "http://upload.wikimedia.org/wikipedia/en/b/b2/Volaris_logo.svg",
+      "source": "https://en.wikipedia.org/wiki/Volaris"
+    }
+  }
+]
