@@ -87,6 +87,32 @@
 ]
 ```
 
+### `[GET] /airports`
+
+```json
+[
+  {
+    "code": "GDL",
+    "name": "Guadalajara International Airport",
+    "city": "Guadalajara",
+    "country": {
+      "name": "Mexico",
+      "code": "MX"
+    }
+  },
+  {
+    "code": "SFO",
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "country": {
+      "name": "United States",
+      "code": "US"
+    }
+  },
+  ...
+]
+```
+
 ## Available mock data
 
 ### Airlines
