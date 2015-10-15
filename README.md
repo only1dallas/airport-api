@@ -55,26 +55,28 @@
       }
     },
     "departure": {
-      "location": {
+      "airport": {
+        "code": "GDL",
+        "name": "Guadalajara International Airport",
+        "city": "Guadalajara",
         "country": {
           "name": "Mexico",
           "code": "MX"
-        },
-        "city": "Guadalajara",
-        "airportCode": "GDL"
+        }
       },
       "dateTime": "2015-09-24T11:59Z",
       "terminal": "1",
       "gate": "A-1"
     },
     "arrival": {
-      "location": {
+      "airport": {
+        "code": "SFO",
+        "name": "San Francisco International Airport",
+        "city": "San Francisco",
         "country": {
           "name": "United States",
           "code": "US"
-        },
-        "city": "San Francisco",
-        "airportCode": "SFO"
+        }
       },
       "dateTime": "2015-09-25T01:25Z",
       "terminal": "2",
