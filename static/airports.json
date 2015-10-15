@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cancún International Airport",
+    "city": "Cancun",
+    "code": {
+      "iata": "CUN",
+      "icao": "MMUN"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX"
+    }
+  },
+  {
+    "name": "Guadalajara International Airport",
+    "city": "Guadalajara",
+    "code": {
+      "iata": "GDL",
+      "icao": "MMGL"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX"
+    }
+  },
+  {
+    "name": "Mexico City International Airport",
+    "city": "Mexico City",
+    "code": {
+      "iata": "MEX",
+      "icao": "MMMX"
+    },
+    "country": {
+      "name": "Mexico",
+      "code": "MX"
+    }
+  },
+  {
+    "name": "Midway International Airport",
+    "city": "Chicago",
+    "code": {
+      "iata": "MDW",
+      "icao": "KMDW"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US"
+    }
+  },
+  {
+    "name": "O'Hare International Airport",
+    "city": "Chicago",
+    "code": {
+      "iata": "ORD",
+      "icao": "KORD"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US"
+    }
+  },
+  {
+    "name": "San Francisco International Airport",
+    "city": "San Francisco",
+    "code": {
+      "iata": "SFO",
+      "icao": "KSFO"
+    },
+    "country": {
+      "name": "United States",
+      "code": "US"
+    }
+  }
+]
